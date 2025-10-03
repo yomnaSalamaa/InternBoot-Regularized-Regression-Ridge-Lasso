@@ -20,7 +20,7 @@ Extracted and visualized feature importance from Ridge & Lasso.
 
 Forecasted sales and visualized predictions vs. actual values.
 
-🔑 Key Features
+## 🔑 Key Features
 
 Time Series Preprocessing: Created lag features, rolling averages, and added holiday/oil price data.
 
