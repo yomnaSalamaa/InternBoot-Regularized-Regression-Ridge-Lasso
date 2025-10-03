@@ -4,8 +4,7 @@ This project is part of my internship journey and represents my fifth project in
 
 📌 Project Overview
 
-Dataset: Kaggle – Store Sales Time Series Forecasting
-
+Dataset: Kaggle – Store Sales Time Series Forecasting https://www.kaggle.com/competitions/store-sales-time-seriesforecasting
 Models implemented:
 
 Linear Regression (baseline)
