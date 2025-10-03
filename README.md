@@ -41,3 +41,9 @@ Pandas, NumPy
 Matplotlib, Seaborn
 
 Scikit-learn
+
+## 📊 Results
+
+Ridge and Lasso improved generalization compared to the baseline Linear Regression.
+
+Feature importance plots showed the impact of promotions, lags, rolling averages, and oil prices on sales.
