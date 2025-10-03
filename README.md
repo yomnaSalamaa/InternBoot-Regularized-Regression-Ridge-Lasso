@@ -2,7 +2,7 @@
 
 This project is part of my internship journey and represents my fifth project in applied Data Science. The goal is to improve forecasting accuracy using Ridge and Lasso regression while avoiding overfitting through regularization techniques.
 
-📌 Project Overview
+## 📌 Project Overview
 
 Dataset: Kaggle – Store Sales Time Series Forecasting https://www.kaggle.com/competitions/store-sales-time-seriesforecasting
 
