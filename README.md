@@ -31,3 +31,13 @@ Evaluation: Compared Linear, Ridge, and Lasso models with metrics.
 Feature Importance: Identified which features matter most for forecasting sales.
 
 Visualization: Plots of predicted vs. actual sales and feature importance charts.
+
+## 🛠️ Tech Stack
+
+Python
+
+Pandas, NumPy
+
+Matplotlib, Seaborn
+
+Scikit-learn
